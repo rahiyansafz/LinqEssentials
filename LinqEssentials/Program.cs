@@ -1,6 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using LinqEssentials;
-using System.Linq;
 
 Console.WriteLine("List of Cousins");
 
